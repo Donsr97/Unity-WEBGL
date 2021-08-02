@@ -1,0 +1,141 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 32612 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/donal/OneDrive/Escritorio/TriMod-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61929
+Successfully changed project path to: C:/Users/donal/OneDrive/Escritorio/TriMod-main
+C:/Users/donal/OneDrive/Escritorio/TriMod-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.97 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/donal/OneDrive/Escritorio/TriMod-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 with Max-Q Design (ID=0x1f10)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   26.21.14.4287
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002802 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 33.76 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.307 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1247 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 70.4 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1694.
+Total: 2.149700 ms (FindLiveObjects: 0.203600 ms CreateObjectMapping: 0.063300 ms MarkObjects: 1.522200 ms  DeleteObjects: 0.358800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/BLENDSWAP_MASTERSWORD.obj
+  artifactKey: Guid(cc17e8252c11cf547a952a654ef78477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BLENDSWAP_MASTERSWORD.obj using Guid(cc17e8252c11cf547a952a654ef78477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36aa488f35d30422fd9b7924927d0e99') in 0.413089 seconds
+  Import took 0.415538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.825270 seconds.
+  path: Assets/trifuerza_estrella.obj
+  artifactKey: Guid(ce6a537144af77a43ba552cd0a04e7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/trifuerza_estrella.obj using Guid(ce6a537144af77a43ba552cd0a04e7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43110ae57e86e3ded8ea28a99e72b451') in 0.034162 seconds
+  Import took 0.038394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/trifuerza_podio.obj
+  artifactKey: Guid(64fc32e0345ce5347ace05bab8585971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/trifuerza_podio.obj using Guid(64fc32e0345ce5347ace05bab8585971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdb8b4c7b3a11739fa83be6d27129fd2') in 0.169963 seconds
+  Import took 0.173625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/trifuerza_estrella.obj
+  artifactKey: Guid(ce6a537144af77a43ba552cd0a04e7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/trifuerza_estrella.obj using Guid(ce6a537144af77a43ba552cd0a04e7e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43110ae57e86e3ded8ea28a99e72b451') in 0.024939 seconds
+  Import took 0.027332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.362463 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56135545810adf3c55abdd2811ba3248') in 0.006124 seconds
+  Import took 0.008404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007846 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56135545810adf3c55abdd2811ba3248') in 0.002189 seconds
+  Import took 0.004304 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1221 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.9 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1740.
+Total: 3.544700 ms (FindLiveObjects: 0.321400 ms CreateObjectMapping: 0.110600 ms MarkObjects: 2.737000 ms  DeleteObjects: 0.374400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
